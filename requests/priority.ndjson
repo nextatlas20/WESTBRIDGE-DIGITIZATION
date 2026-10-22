@@ -1,0 +1,9 @@
+{"item_id":"MS-041","priority":8,"target_date":"2099-11-02","state":"approved","revision":1}
+{"item_id":"MS-052","priority":11,"target_date":"2099-11-01","state":"approved","revision":1}
+{"item_id":"MS-063","priority":10,"target_date":"2099-10-30","state":"approved","revision":1}
+{"item_id":"MS-081","priority":9,"target_date":"2099-11-01","state":"approved","revision":1}
+{"item_id":"MS-093","priority":12,"target_date":"2099-10-29","state":"approved","revision":1}
+{"item_id":"MS-093","priority":12,"target_date":"2099-10-29","state":"withdrawn","revision":2}
+{"item_id":"MS-105","priority":20,"target_date":"2099-10-28","state":"approved","revision":1}
+{"item_id":"MS-052","priority":11,"target_date":"2099-11-01","state":"approved","revision":1,"note":"duplicate malformed schema"}
+not-json
